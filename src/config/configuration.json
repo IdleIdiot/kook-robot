@@ -1,0 +1,12 @@
+{
+  "bot": {
+    "bot_token": "1/MTMwMjk=/O+HH+EVstgBVGY0j/RauYA==",
+    "bot_channel_group_id": "6878589961567513"
+  },
+  "kook": {
+    "base_url": "https://www.kookapp.cn"
+  },
+  "openai": {
+    "base_url": "https://chat.openai.com"
+  }
+}

@@ -1,0 +1,2 @@
+class YiProgram:
+    pass
